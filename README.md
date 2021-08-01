@@ -33,6 +33,7 @@ Paguito Seguro es un chatbot dentro de WhatsApp, o tambien conocido como un asis
 - **Áreas:** Programación, Ciberseguridad, Administración de Base de Datos, Contaduría y Administración.
 
 ## 🎥 Tiktok: 
+[Propuesta](https://vm.tiktok.com/ZMd3eNqR9/)
 
 ## ✏️ Diagrama de Azure:
 ![Diagrama](https://user-images.githubusercontent.com/87000380/127775402-47ea43d2-fb06-4f71-a9d5-b5dee4b2cc55.png)

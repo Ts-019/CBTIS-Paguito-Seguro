@@ -10,10 +10,10 @@
 - Cuenta de GitHub: [SofiaGaytan](https://github.com/SofiaGaytan)
 3. Alejandro Ivan Lizarraga 
 - Cuenta de Innovacción Virtual: cv0537@innovaccion.mx
-- Cuenta de GitHub: 
+- Cuenta de GitHub: [AlejandroLizarraga](https://github.com/AlejandroLizarraga)
 4. Pablo Sebastian Ruiz 
 - Cuenta de Innovacción Virtual: cv5966@innovaccion.mx
-- Cuenta de GitHub: 
+- Cuenta de GitHub: [PSRG14](https://github.com/PSRG14)
 5. David Zabaleta
 - Cuenta de Innovacción Virtual: cv2268@innovaccion.mx
 - Cuenta de GitHub: 

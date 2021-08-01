@@ -15,12 +15,13 @@ CREATE TABLE DatosAcceso(
 )
 
 CREATE TABLE Pagos(
-    Id_Pago int NOT NULL,
+    Id_Pago int IDENTITY(1,1) NOT NULL,
     Descripcion varchar(100) NOT NULL,
     Cantidad int NOT NULL,
     Fecha smalldatetime NOT NULL,
     Matricula int NOT NULL,
-    Semestre int NOT NULL    
+    Semestre int NOT NULL,
+    Estado bit NOT NULL,
     PRIMARY KEY (Id_Pago),
     FOREIGN KEY (Matricula)REFERENCES DatosAcceso(Matricula),
 )

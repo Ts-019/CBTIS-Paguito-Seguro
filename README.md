@@ -8,12 +8,6 @@ Paguito-Seguro 💸
 ### Problematica a resolver:
 Optimizar elpagode coutas escolares en los CBTIS y disminur el riesgo de contagiarse de COVID 19 al realizar este trámite.
 
-### Descripción del Proyecto:
-Paguito Seguro es un chatbot dentro de WhatsApp, o tambien conocido como un asistente virtual, para escuelas/universidades. Su función principal es realizar pagos de manera segura, tanto por el lado de ciberseguridad como por el lado de la salud, ya que se realizaria el pago desde la comunidad de la casa y por medio de un codigo QR, el cual es una forma segura para proteger los datos, para realizar el pago por medio de una aplicación. Ademas se le incluye preguntas frecuentes para resolver problemas de una manera más rapida y eficiente.
-
-- **Tecnologías**: Bot Service, Azure Functions, SQL Database, Blob Storage y Security Center, App service.
-- **Áreas:** Programación, Ciberseguridad, Administración de Base de Datos, Contaduría y Administración.
-
 ## 🎥 Tiktok: 
 [Propuesta](https://vm.tiktok.com/ZMd3eNqR9/)
 

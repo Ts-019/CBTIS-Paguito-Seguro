@@ -50,6 +50,7 @@ Paguito Seguro es un chatbot dentro de WhatsApp, o tambien conocido como un asis
 99,9% x 99,95% x 99,99% x 99,99% x 99,9% x 99,9% x 99,95 
 
 ## 🔢 TCO 3 años
+Enn 3 años vamos a tener un consto de aproximadamente $11 millones de pesos mexicanos (en 5 años serían $20,181,707 MXN).
 
 ## 💰 Precio Total por mes
 Aproximadamente 365,85 US$

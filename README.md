@@ -51,9 +51,12 @@ Paguito Seguro es un chatbot dentro de WhatsApp, o tambien conocido como un asis
 
 ## 🔢 TCO 3 años
 
+
 ## 💰 Precio Total por mes
+Muy caro (Más de 10,000 MXN seguro).
 
 ## ⏲️ Tiempo sin disponibilidad en un año
+Disponibilidad alta.
 
 ## ⛅ ¿Qué te parecio el evento?
-> Nos parecio un reto demasiado grande, muchos estuvimos apunto de rendirnos, pero sabemos que todo es para aprender y mejorar, aprendimos a no tenerle miedo a lo nuevo y fracasar. Disfrutamos trabajar con cosas nuevas y buscar soluciones a problematicas reales y actuales, utilizando cosas que ya sabiamos y cosas que aprendimos durante el Summer Hack. Fue una experiencia nueva que crea maravillosos recuerdos, conocimos a grandes personas y aprendimos entre todos. En conclusión, fue algo grandioso, un reto en todo su explendor, lleno de nuevos conocimientos que atesoraremos mucho y que sabemos completamente que utilizaremos en un futuro. 
+Nos parecio un reto demasiado grande, muchos estuvimos apunto de rendirnos, pero sabemos que todo es para aprender y mejorar, aprendimos a no tenerle miedo a lo nuevo y fracasar. Disfrutamos trabajar con cosas nuevas y buscar soluciones a problematicas reales y actuales, utilizando cosas que ya sabiamos y cosas que aprendimos durante el Summer Hack. Fue una experiencia nueva que crea maravillosos recuerdos, conocimos a grandes personas y aprendimos entre todos. En conclusión, fue algo grandioso, un reto en todo su explendor, lleno de nuevos conocimientos que atesoraremos mucho y que sabemos completamente que utilizaremos en un futuro. 

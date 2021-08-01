@@ -55,6 +55,4 @@ Paguito Seguro es un chatbot dentro de WhatsApp, o tambien conocido como un asis
 ## ⏲️ Tiempo sin disponibilidad en un año
 
 ## ⛅ ¿Qué te parecio el evento?
-
-Sofía Alejandra Gaytán: 
-> Me parecio un reto demasiado grande, estuve apunto de rendirme, pero se que todo es para aprender y mejorar, aprendi a no tenerle miedo a lo nuevo y fracasar. Disfrute trabajar con cosas nuevas para mi y buscar soluciones a problematicas reales y actuales, utilizando cosas que ya se y cosas que aprendi durante el Summer Hack. Fue una experiencia nueva que crea maravillosas recuerdos, conoci grandes personas, donde aprendi de ellos y espero que ellos hayan aprendido algo bueno de mi. En conclusión, fue algo grandioso, un reto en todo su explendor, lleno de nuevos conocimientos que atesorare mucho y que se completamente que utilizare en un futuro. 
+> Nos parecio un reto demasiado grande, muchos estuvimos apunto de rendirnos, pero sabemos que todo es para aprender y mejorar, aprendimos a no tenerle miedo a lo nuevo y fracasar. Disfrutamos trabajar con cosas nuevas y buscar soluciones a problematicas reales y actuales, utilizando cosas que ya sabiamos y cosas que aprendimos durante el Summer Hack. Fue una experiencia nueva que crea maravillosos recuerdos, conocimos a grandes personas y aprendimos entre todos. En conclusión, fue algo grandioso, un reto en todo su explendor, lleno de nuevos conocimientos que atesoraremos mucho y que sabemos completamente que utilizaremos en un futuro. 

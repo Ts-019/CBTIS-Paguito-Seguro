@@ -16,7 +16,7 @@
 - Cuenta de GitHub: [PSRG14](https://github.com/PSRG14)
 5. David Zabaleta
 - Cuenta de Innovacción Virtual: cv2268@innovaccion.mx
-- Cuenta de GitHub: 
+- Cuenta de GitHub: [David](https://github.com/MrDavez)
 
 ## 📝 Proyecto
 
@@ -24,7 +24,7 @@
 Paguito-Seguro 💸
 
 ### Problematica a resolver:
-Riesgos para realizar pagos durante la pandemia.
+Optimizar elpagode coutas escolares en los CBTIS y disminur el riesgo de contagiarse de COVID 19 al realizar este trámite.
 
 ### Descripción del Proyecto:
 Paguito Seguro es un chatbot dentro de WhatsApp, o tambien conocido como un asistente virtual, para escuelas/universidades. Su función principal es realizar pagos de manera segura, tanto por el lado de ciberseguridad como por el lado de la salud, ya que se realizaria el pago desde la comunidad de la casa y por medio de un codigo QR, el cual es una forma segura para proteger los datos, para realizar el pago por medio de una aplicación. Ademas se le incluye preguntas frecuentes para resolver problemas de una manera más rapida y eficiente.
@@ -35,6 +35,7 @@ Paguito Seguro es un chatbot dentro de WhatsApp, o tambien conocido como un asis
 ## 🎥 Tiktok: 
 
 ## ✏️ Diagrama de Azure:
+![Diagrama](https://user-images.githubusercontent.com/87000380/127775402-47ea43d2-fb06-4f71-a9d5-b5dee4b2cc55.png)
 
 ## 🤝 SLA Compuesto
 

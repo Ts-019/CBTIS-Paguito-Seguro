@@ -38,6 +38,16 @@ Paguito Seguro es un chatbot dentro de WhatsApp, o tambien conocido como un asis
 
 ## 🤝 SLA Compuesto
 
+### SLA Invidual de las Tecnologías Utilizadas:
+ - **Bot Service:** 99,9%
+ - **Azure Functions:** 99,95%
+ - **SQL Database:** 99,99%
+ - **Blob Storage:** 99,99%
+ - **Security Center:** 99,9%
+
+### SLA Compuesto: 99,73%
+99,9% x 99,95% x 99,99% x 99,99% x 99,9%
+
 ## 🔢 TCO 3 años
 
 ## 💰 Precio Total por mes
